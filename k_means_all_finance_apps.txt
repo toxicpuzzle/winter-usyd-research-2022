@@ -1,0 +1,260 @@
+Cluster 0 - app/platform
+ used
+ app
+ ive
+ portfolio
+ update
+ good
+ best
+ use
+ crypto
+ time
+
+
+Cluster 1 - customer support/depositing
+ account
+ bank
+ app
+ money
+ support
+ customer
+ access
+ trying
+ service
+ coinbase
+
+
+Cluster 2 - app/platform
+ bad
+ app
+ experience
+ time
+ really
+ crypto
+ account
+ good
+ money
+ dont
+
+
+Cluster 3 - app/platform
+ buy
+ sell
+ crypto
+ app
+ price
+ like
+ coinbase
+ stocks
+ want
+ money
+
+
+Cluster 4 - app/platform
+ better
+ app
+ robinhood
+ like
+ way
+ trading
+ crypto
+ good
+ use
+ webull
+
+
+Cluster 5 - app/platform
+ app
+ like
+ crypto
+ im
+ coinbase
+ use
+ support
+ robinhood
+ customer
+ love
+
+
+Cluster 6 - app - logins/passwords
+ update
+ app
+ portfolio
+ new
+ open
+ password
+ use
+ fix
+ lost
+ login
+
+
+Cluster 7
+ far
+ good
+ app
+ best
+ like
+ great
+ easy
+ experience
+ crypto
+ im
+
+
+Cluster 8
+ stock
+ market
+ app
+ free
+ stocks
+ robinhood
+ like
+ easy
+ price
+ use
+
+
+Cluster 9
+ app
+ use
+ open
+ crypto
+ using
+ like
+ love
+ work
+ im
+ sign
+
+
+Cluster 10
+ phone
+ app
+ account
+ new
+ log
+ im
+ use
+ work
+ update
+ time
+
+
+Cluster 11
+ trading
+ app
+ platform
+ crypto
+ best
+ good
+ like
+ great
+ stocks
+ options
+
+
+Cluster 12
+ easy
+ easy use
+ use
+ app
+ great
+ crypto
+ love
+ like
+ stocks
+ good
+
+
+Cluster 13
+ trade
+ app
+ crypto
+ like
+ platform
+ trading
+ stocks
+ good
+ easy
+ fees
+
+
+Cluster 14
+ time
+ app
+ money
+ use
+ dont
+ account
+ like
+ im
+ update
+ using
+
+
+Cluster 15
+ good
+ app
+ crypto
+ like
+ really
+ use
+ experience
+ platform
+ easy
+ portfolio
+
+
+Cluster 16
+ great
+ great app
+ app
+ crypto
+ easy
+ love
+ use
+ stocks
+ like
+ platform
+
+
+Cluster 17 - Customer service/support
+ email
+ password
+ app
+ account
+ login
+ support
+ log
+ customer
+ phone
+ time
+
+
+Cluster 18
+ binance
+ best
+ app
+ crypto
+ exchange
+ use
+ trading
+ easy
+ using
+ like
+
+
+Cluster 19 - Deposits/withdarawals
+ money
+ app
+ withdraw
+ make
+ use
+ dont
+ bank
+ want
+ lost
+ account
+
+
